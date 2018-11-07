@@ -1,0 +1,15 @@
+<code_scheme name="Default" version="173">
+    <option name="LINE_SEPARATOR" value="&#xA;" />
+    <option name="SOFT_MARGINS" value="120" />
+    <PHPCodeStyleSettings>
+        <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+        <option name="ALIGN_ASSIGNMENTS" value="true" />
+        <option name="CONCAT_SPACES" value="false" />
+        <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+        <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
+        <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    </PHPCodeStyleSettings>
+    <codeStyleSettings language="PHP">
+        <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    </codeStyleSettings>
+</code_scheme>
